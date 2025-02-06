@@ -109,7 +109,7 @@
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")
     (tstamp 23abe5c3-3910-4198-afaf-20c64c58df79)
-    (at 104.14 41.15)
+    (at 73.66 50.8)
     (descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
     (tags "Through hole pin header THT 1x01 1.00mm single row")
     (property "Sheetfile" "ToukV1.kicad_sch")
